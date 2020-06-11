@@ -1,0 +1,3 @@
+body { background: #343a40; }
+#container { max-width: 1000px; }
+th { position: sticky; top: 0; z-index: 1; background: #343a40; }
